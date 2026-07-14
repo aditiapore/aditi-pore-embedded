@@ -1,10 +1,11 @@
-# Aditi Pore — Portfolio
+# Aditi Pore Portfolio
 
 **Electronics & Telecommunication Engineering | COEP Technological University**
 Minor in AI & ML | Licensed Amateur Radio Operator (VU39AP) | Technical Secretary, COEP Amateur Radio Club
 
 📄 [Resume (PDF)](./Aditi_Pore_Resume.pdf)
 📧 aditiapore@gmail.com
+
 
 ---
 
