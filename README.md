@@ -19,17 +19,17 @@ Third-year ECE student with hands-on experience across analog signal processing 
 
 ### Analog & Signal Processing
 
-**[Seven-Stage Analog EMG Signal Processing Circuit](./EMG-signal-processing.md)**
+**[Seven-Stage Analog EMG Signal Processing Circuit](./emg-project/EMG-signal-processing.md)**
 Designed a seven-stage analog front-end for surface EMG signals using TL071 op-amps — instrumentation amplifier (gain 201), band-pass filtering, 50 Hz notch filter, and envelope detector. Achieves ~10,000 V/V gain with a clean 0–5V DC output, targeting prosthetic motor control.
 `TL071 Op-Amps` `Instrumentation Amplifier` `Analog Front-End` `Proteus`
 
-**[KHN State-Variable Audio Filter](./KHN-filter.md)**
+**[KHN State-Variable Audio Filter](./khn-filter/KHN-filter.md)**
 Designed a Kerwin-Huelsman-Newcomb active filter at 1 kHz with simultaneous low-pass, band-pass, and high-pass outputs and independent Q/frequency control — a low-cost analog alternative to DSP in ANC systems.
 `Op-Amp Based` `Active Filter Design` `ANC`
 
 ### Embedded Systems
 
-**[AI Vision for Blind: IoT-Based Real-Time Scene Description System](./AI-Vision-Assistant.md)** — *IEEE Access (submitted)*
+**[AI Vision for Blind: IoT-Based Real-Time Scene Description System](./ai-vision-assistant/AI-Vision-Assistant.md)** — *IEEE Access (submitted)*
 Built an ESP32-CAM device that captures surroundings, sends images to Groq LLaMA-4 for scene analysis, and converts descriptions to speech via I2S. Achieves 88% description accuracy and ~4.3s end-to-end latency, at under ₹1,500 total hardware cost.
 `ESP32-CAM` `Groq LLaMA API` `Google TTS` `I2S`
 
